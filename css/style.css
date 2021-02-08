@@ -77,11 +77,13 @@ header {
 
 /* here is our section part start */
 .burger-gelary {
-    width: 100%;
+    width: 95%;
     padding: 60px 0;
+
 }
 .gelary {
     display: flex;
+    /*display: none;*/
 }
 .left {
     position: relative;
@@ -358,7 +360,7 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     height: 80vh;
-    padding: 60px 40px 40px 40px;
+    padding: 60px 40px 50px 40px;
 }
 .footer-top img {
     margin-top: 65px;
